@@ -3,8 +3,9 @@
 A responsive and visually accurate clone of the Netflix user interface, built exclusively with HTML and CSS. This project demonstrates a strong understanding of modern CSS layout techniques, including Flexbox and responsive design.
 
 Note: Clone websites are automatically flagged as 'Dangerous site' but they are not.
-So to view the webpage click on -> details -> this unsafe site
-**This website is created for Educational purposes only.
+So to view the webpage click on -> details -> this unsafe site.
+
+This website is created for Educational purposes only.
 
 ## Live Demo
 https://deepak-8722.github.io/myflix/
